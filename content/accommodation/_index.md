@@ -1,7 +1,11 @@
 ---
-draft: false
+draft: true
 title: "Accommodation"
 ---
+
+## Hotel and Neighborhood Recomendations
+
+
 
 ## Camping and Caravans at Higher Eggbeer
 
