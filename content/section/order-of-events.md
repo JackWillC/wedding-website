@@ -3,46 +3,25 @@ draft: false
 title: "Order of Events"
 ---
 
-## 1:30pm - Arrivals
+## 4:45 to 5:15pm - Arrivals
 
-Everyone arrives at Higher Eggbeer
+Everyone arrives at James S. McDonnell Planetarium
+Even though it's attached to the STL Science Center, park on the Planetarium side (or better yet, take the shuttle/taxi)
 
-Warm drink on arrival before the ceremony
+## 5:30pm - Ceremony
 
-## 2pm - Ceremony
+Inside the Planetarium!
 
-Inside the **Chapel Barn** at Higher Eggbeer
+## 5:45pm - Cocktail Hour
 
-## 2:30pm - Reception
+Mingle with other guests in the Planetarium lobby while Rachel and Jack run off to get pictures in Forest Park
 
-Sparkling, canapes and photographs on the lawn after the ceremony- weather permitting!
+## 7:00pm - Reception
 
-Please do wrap up warm, but we have contingencies for rain
+Back upstairs to a reception with buffet, drinks, dancing, and a star/planet show
 
-## 4pm - Wedding Breakfast
+## 9:30pm - Send Off the Bride and Groom
 
-A dinner with wine will follow in Higher Eggbeer's **Banquet Barn**
+I don't know if we'll have a proper carrage or not 🌠
 
-Speeches after dinner
-
-_Venue Bar opens during the wedding breakfast -  cash & card accepted_
-
-## Later... The Party
-
-After a quick reshuffle of the **Banquet Barn**, the party will begin!
-
-_The Small Things_ playing live music until 11pm
-
-Late night food served for those still peckish!
-
-## Carriages at midnight
-
-Wrap up warm for sparklers, toasted marshmallows, and drunken warbling around the fire pit as we begin to say our farewells!
-
-_Venue Bar closes shortly after midnight_
-
-## Wheelbarrows at 2am
-
-The **Banquet Barn** will shut at around midnight… but the party doesn’t need to end there!
-
-The smaller **‘Pub’ Barn** will be opened with a few bottles and maybe some kegs, for those hardcore enough to stay up!
+## 10pm - Get Out!
