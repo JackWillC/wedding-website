@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: var(--dusty-pink);
+  background-color: var(--imperial-blue);
   font-family: var(--main-font);
 
   position: absolute;
@@ -37,10 +37,10 @@ html {
 :root {
   --main-font: 'Noto Sans', sans-serif;
 
-  --cream: #FAF2DA;
-  --light-green: #8E9775;
-  --dark-green: #4A503D;
-  --dusty-pink: #E28F83;
+  --frosted-mint: #DFF2D8;
+  --lavender-grey: #8F91A2; 
+  --imperial-blue: #01295F;
+  --tangerine-dream: #FFAF87;
 }
 
 /* IMAGES - DESKTOP PARALLAX SCROLLING */
@@ -76,9 +76,9 @@ html {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: var(--dusty-pink);
-  color: var(--cream);
-  text-shadow: var(--dark-green) 2px 2px 0px;
+  background-color: var(--tangerine-dream);
+  color: var(--frosted-mint);
+  text-shadow: var(--lavender-grey) 2px 2px 0px;
   letter-spacing: 2px;
 
   height: 100vh;
@@ -152,14 +152,14 @@ html {
   height: 80px;
   cursor: pointer;
   transition: all .5s ease-in-out;
-  background-color: var(--dusty-pink);
+  background-color: var(--imperial-blue);
   border-radius: 50%;
 }
 
 .nav-mobile__burger {
   width: 50px;
   height: 6px;
-  background: var(--cream);
+  background: var(--frosted-mint);
   border-radius: 5px;
   transition: all .5s ease-in-out;
 }
@@ -170,7 +170,7 @@ html {
   position: absolute;
   width: 50px;
   height: 6px;
-  background: var(--cream);
+  background: var(--frosted-mint);
   border-radius: 5px;
   transition: all .5s ease-in-out;
 }
@@ -200,7 +200,7 @@ html {
 
 .nav-mobile__menu {
   display: none;
-  background-color: var(--dusty-pink);
+  background-color: var(--imperial-blue);
   width: 100vw;
   height: 100vh;
   position: fixed;
@@ -224,7 +224,7 @@ html {
 
     padding: 20px 20%;
     width: 100%;
-    background-color: var(--dusty-pink);
+    background-color: var(--imperial-blue);
 
     display: flex;
     flex-direction: row;
@@ -242,7 +242,7 @@ html {
   font-size: 1.5rem;
   font-weight: bolder;
   margin-bottom: 1.5rem;
-  color: var(--cream);
+  color: var(--frosted-mint);
   font-style: italic;
   text-align: center;
   text-transform: uppercase;
@@ -263,7 +263,7 @@ html {
   padding: 0 0.5rem;
   width: -webkit-fill-available;
 
-  color: var(--cream);
+  color: var(--frosted-mint);
   text-decoration: none;
 }
 
@@ -322,7 +322,7 @@ html {
 
 .section__split div:nth-child(1) {
   border-right: none;
-  border-bottom: solid 2px var(--dusty-pink);
+  border-bottom: solid 2px var(--imperial-blue);
 }
 
 @media only screen and (min-width: 800px) {
@@ -331,7 +331,7 @@ html {
   }
 
   .section__split div:nth-child(1) {
-    border-right: solid 2px var(--dusty-pink);
+    border-right: solid 2px var(--imperial-blue);
     border-bottom: none;
   }
 }
@@ -344,14 +344,14 @@ html {
 
 .section.light {
   color: var(--dark-green);
-  background-color: var(--cream);
+  background-color: var(--frosted-mint);
 }
 
 .section.dark {
   width: 100%;
   min-height: 200px;
   color: var(--cream);
-  background-color: var(--light-green);
+  background-color: var(--lavender-grey);
 }
 
 @media only screen and (max-width: 800px) {
@@ -396,7 +396,7 @@ html {
   display: flex;
   flex-direction: column;
   text-align: center;
-  color: var(--cream);
+  color: var(--frosted-mint);
   font-size: 75%;
 }
 
@@ -414,13 +414,13 @@ html {
 .footer a:visited,
 .footer a:hover,
 .footer a:active {
-  color: var(--cream);
+  color: var(--frosted-mint);
 }
 
 @media only screen and (min-width: 800px) {
   .footer {
     text-align: right;
-    color: var(--cream);
+    color: var(--frosted-mint);
     font-size: inherit;
   }
 
@@ -483,7 +483,7 @@ blockquote {
 
   margin-bottom: 1rem;
 
-  color: var(--light-green)
+  color: var(--lavender-grey)
 }
 
 @media only screen and (min-width: 800px) {
