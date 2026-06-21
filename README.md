@@ -1,12 +1,4 @@
-# Wedding Website - Status = Hitched! 📨
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/15078782/150659777-bf20ca44-136e-4122-82ba-bbccc8a7e034.gif">
-</p>
-
-If you're reading this- hello! I didn't want to spend money on Squarespace/Wix/etc to make a website for my wedding guests, so here it is deployed on GitHub Pages.
-
-The man I'm marrying is called Hugo, and the framework used to make the site is also called [Hugo](https://gohugo.io/), ain't that fun.
+# Wedding Website
 
 ## Inspiration
 
