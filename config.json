@@ -36,8 +36,8 @@
     }
   },
   "params": {
-    "background_image_1": /static/image/engagement-rj-bartholdi-142,
-    "background_image_2": /static/image/engagement-rj-bartholdi-47(1),
-    "background_image_3": /static/image/engagement-rj-bartholdi-102(1)
+    "background_image_1": "https://i.postimg.cc/ZW97B7y2/engagement-rj-bartholdi-141.jpg",
+    "background_image_2": "https://i.postimg.cc/RW3s6sH5/engagement-rj-bartholdi-47.jpg",
+    "background_image_3": "https://i.postimg.cc/Yv4nGnWc/engagement-rj-bartholdi-102.jpg"
   }
 }
