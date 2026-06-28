@@ -3,24 +3,20 @@ draft: false
 title: "Travel and Accommodation"
 ---
 
-**Please take a look at our separate pages on <a href="/travel">travel</a> and <a href="/accommodation">accommodation</a> for advice.**
+The main points:
 
 <br>
 
-The take-home messages are:
+About 6 months out from the wedding, we'll start a room block at a hotel near to the Planetarium (probably Hampton Inn & Suites St. Louis at Forest Park).
 
 <br>
 
-Please pre-book a taxi for the evening if you are not travelling by car
+If you're looking for other areas of St. Louis to find a different hotel or AirBnB, we recommend looking around the Delmar Loop, Clayton, or the Central West End.
 
 <br>
 
-There is a lot of parking space available at Eggbeer Farm and cars can be left here overnight.
+We'll likely arrange a shuttle from the hotel with the room block to the planetarium.
 
 <br>
 
-Accommodation at Higher Eggbeer is available for hire, please contact Hugo and Sarah for more details
-
-<br>
-
-You could take a train down from London to Exeter on the morning of the wedding, and back home afterwards, if you wanted!
+There are about 3 dozen parking spots in the Planetarium parking lot and plenty more on Clayton Ave and Faulkner Dr about 2 blocks from the Planetarium.
